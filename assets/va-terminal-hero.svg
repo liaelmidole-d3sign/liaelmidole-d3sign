@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Liafil Elmido — Virtual Assistant, Customer Support Specialist">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#140e0c"/><stop offset=".55" stop-color="#302017"/><stop offset="1" stop-color="#120d0b"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7e5137"/><stop offset=".4" stop-color="#ffe3bf"/><stop offset=".7" stop-color="#c49b78"/><stop offset="1" stop-color="#4b3025"/></linearGradient>
+ <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3d2b22"/><stop offset="1" stop-color="#1c1411"/></linearGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#ffcc9a" stroke-opacity=".1" stroke-width="1" fill="none"/></pattern>
+ <filter id="halo"><feGaussianBlur stdDeviation="27"/></filter>
+</defs>
+<rect width="1200" height="380" rx="16" fill="url(#bg)"/>
+<rect width="1200" height="380" rx="16" fill="url(#grid)"/>
+<ellipse cx="895" cy="145" rx="210" ry="170" fill="#b17a4a" opacity=".09" filter="url(#halo)"/>
+<rect x="5" y="5" width="1190" height="370" rx="12" fill="none" stroke="#d1aa84" stroke-opacity=".52"/>
+<path d="M0 0h1200v5H0Z" fill="url(#gold)"/>
+<rect x="37" y="34" width="237" height="29" rx="14" fill="#493125" stroke="#7a5440"/>
+<circle cx="53" cy="49" r="4" fill="#e7c59f"/>
+<text x="66" y="53" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.6" fill="#f9dfbd">AVAILABLE FOR OPPORTUNITIES</text>
+<text x="35" y="167" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="83" letter-spacing="-2.3" fill="#fff2e3">LIAFIL ELMIDO</text>
+<path d="M37 184h680" stroke="url(#gold)" stroke-width="2.7"/>
+<text x="39" y="231" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="3.3" fill="#f3c9a2">VIRTUAL ASSISTANT</text>
+<text x="39" y="262" font-family="Arial,sans-serif" font-size="18" letter-spacing="1.2" fill="#cdb5a3">CUSTOMER SERVICE &amp; SUPPORT SPECIALIST</text>
+<text x="39" y="320" font-family="monospace" font-size="15" fill="#c6ab96">CHAT · EMAIL · PHONE · CUSTOMER CARE</text>
+<text x="39" y="347" font-family="monospace" font-size="12" letter-spacing="1.1" fill="#977c6a">EMPATHY IN EVERY INTERACTION // DETAIL IN EVERY TASK</text>
+<g transform="translate(781 57)">
+  <rect width="365" height="259" rx="12" fill="url(#card)" stroke="#aa815f" stroke-width="1.2"/>
+  <rect width="365" height="37" rx="12" fill="#4a3428"/>
+  <path d="M0 28h365v9H0Z" fill="#4a3428"/>
+  <circle cx="20" cy="19" r="5" fill="#db8b79"/><circle cx="39" cy="19" r="5" fill="#ecd094"/><circle cx="58" cy="19" r="5" fill="#a7caac"/>
+  <text x="184" y="24" text-anchor="middle" font-family="monospace" font-size="12" fill="#f0d8bd">liafil@workspace:~</text>
+  <text x="21" y="77" font-family="monospace" font-size="16" fill="#f3c197">$ whoami</text>
+  <text x="21" y="104" font-family="monospace" font-size="16" fill="#fff2e2">Liafil Elmido</text>
+  <text x="21" y="141" font-family="monospace" font-size="16" fill="#f3c197">$ cat expertise.txt</text>
+  <text x="21" y="170" font-family="monospace" font-size="15" fill="#fff2e2">customer_support: true</text>
+  <text x="21" y="194" font-family="monospace" font-size="15" fill="#fff2e2">chat_email_phone: true</text>
+  <text x="21" y="218" font-family="monospace" font-size="15" fill="#fff2e2">detail_oriented: true</text>
+  <text x="21" y="243" font-family="monospace" font-size="16" fill="#f3c197">$ <tspan fill="#f8e7ce">_</tspan></text>
+</g>
+<path d="M18 20h25m-25 0v25m1139-25h25m0 0v25M18 361h25m-25 0v-25m1139 25h25m0 0v-25" stroke="#d9ad83" stroke-width="1.5" fill="none"/>
+</svg>
