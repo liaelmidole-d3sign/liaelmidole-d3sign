@@ -1,8 +1,6 @@
+<img width="100%" src="https://raw.githubusercontent.com/liaelmidole-d3sign/liaelmidole-d3sign/main/assets/va-terminal-hero.svg" alt="Liafil Elmido - Virtual Assistant and Customer Service Specialist" />
+
 <div align="center">
-
-<img src="./assets/va-terminal-hero.svg" width="100%" alt="Liafil Elmido - Virtual Assistant and Customer Service Specialist"/>
-
-<br/>
 
 <table>
 <tr>
