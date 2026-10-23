@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="245" viewBox="0 0 1100 245" role="img" aria-label="Liafil's professional background at a glance">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b120f"/><stop offset="1" stop-color="#36241b"/></linearGradient></defs>
+<rect x="1" y="1" width="1098" height="243" rx="16" fill="url(#bg)" stroke="#9e7658"/>
+<text x="30" y="42" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2.5" fill="#f4d5ae">PROFESSIONAL SNAPSHOT</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<g transform="translate(180 77)"><rect x="-144" y="0" width="288" height="129" rx="13" fill="#3c291f" stroke="#86644a"/><text y="54" font-size="48" font-weight="700" fill="#f8dfbe">04</text><text y="91" font-size="15" font-weight="700" fill="#e6c29d">CAREER ROLES</text><text y="112" font-size="12" fill="#baa08a">From the résumé</text></g>
+<g transform="translate(550 77)"><rect x="-144" y="0" width="288" height="129" rx="13" fill="#3c291f" stroke="#86644a"/><text y="54" font-size="43" font-weight="700" fill="#f8dfbe">03</text><text y="91" font-size="15" font-weight="700" fill="#e6c29d">SUPPORT CHANNELS</text><text y="112" font-size="12" fill="#baa08a">Chat · Email · Phone</text></g>
+<g transform="translate(920 77)"><rect x="-144" y="0" width="288" height="129" rx="13" fill="#3c291f" stroke="#86644a"/><text y="54" font-size="38" font-weight="700" fill="#f8dfbe">2016–26</text><text y="91" font-size="15" font-weight="700" fill="#e6c29d">CAREER TIMELINE</text><text y="112" font-size="12" fill="#baa08a">Dates listed in résumé</text></g>
+</g>
+</svg>
