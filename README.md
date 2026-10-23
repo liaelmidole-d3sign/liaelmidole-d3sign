@@ -7,26 +7,15 @@
 <table>
 <tr>
 <td align="center" width="220">
-
-<a href="https://github.com/liaelmidole-d3sign"><img src="https://avatars.githubusercontent.com/u/316924873?s=240" width="180" height="180" alt="Liafil Elmido GitHub avatar"/></a>
-
-**LIAFIL ELMIDO**
-
+<a href="https://github.com/liaelmidole-d3sign"><img src="https://avatars.githubusercontent.com/u/316924873?s=240" width="180" height="180" alt="Liafil Elmido profile photo"/></a>
+<p><strong>LIAFIL ELMIDO</strong></p>
 <sub>Virtual Assistant · Customer Support</sub>
-
 </td>
 <td align="left">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2700&pause=900&color=D9AE87&center=true&vCenter=true&width=850&height=58&lines=Hello%2C+I'm+Liafil+Elmido;Virtual+Assistant+%7C+Customer+Support+Specialist;Chat+%7C+Email+%7C+Phone+Support;Helping+customers+with+care+and+clarity;Let's+make+customer+experiences+better.)](https://github.com/liaelmidole-d3sign)
-
-<br/>
-
-**Customer Service Specialist** · Remote Virtual Assistant
-
-📧 [Get in touch](mailto:liaelmido.le@gmail.com)
-
-🌐 [View live portfolio](https://liaelmidole-d3sign.github.io/va-portfolio/)
-
+<a href="https://github.com/liaelmidole-d3sign"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2700&pause=900&color=D9AE87&vCenter=true&width=520&height=58&lines=Hello%2C+I'm+Liafil+Elmido;Virtual+Assistant+%7C+Customer+Support+Specialist;Chat+%7C+Email+%7C+Phone+Support;Helping+customers+with+care+and+clarity;Let's+make+customer+experiences+better." alt="Animated introduction: Liafil Elmido, Virtual Assistant and Customer Support Specialist"/></a>
+<p><strong>Customer Service Specialist</strong> · Remote Virtual Assistant</p>
+<p>📧 <a href="mailto:liaelmido.le@gmail.com">Get in touch</a></p>
+<p>🌐 <a href="https://liaelmidole-d3sign.github.io/va-portfolio/">View live VA portfolio</a></p>
 </td>
 </tr>
 </table>
@@ -164,12 +153,12 @@ Associate Degree in Computer Science
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liaelmidole-d3sign/home/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liaelmidole-d3sign/home/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/liaelmidole-d3sign/home/output/github-snake-dark.svg" width="100%" alt="Actual GitHub contribution snake for liaelmidole-d3sign"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liaelmidole-d3sign/liaelmidole-d3sign/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liaelmidole-d3sign/liaelmidole-d3sign/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/liaelmidole-d3sign/liaelmidole-d3sign/output/github-snake-dark.svg" width="100%" alt="Actual GitHub contribution snake for liaelmidole-d3sign"/>
 </picture>
 
-<sub>Generated successfully using <a href="https://github.com/liaelmidole-d3sign/home/actions/workflows/snake.yml">GitHub Actions</a> · refreshed daily</sub>
+<sub>Generated successfully using <a href="https://github.com/liaelmidole-d3sign/liaelmidole-d3sign/actions/workflows/snake.yml">GitHub Actions</a> · refreshed daily</sub>
 
 </div>
 
