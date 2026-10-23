@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="430" viewBox="0 0 1280 430" role="img" aria-label="Liafil Elmido — Virtual Assistant and Customer Service Specialist">
+<defs>
+ <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FBF7F2"/><stop offset=".55" stop-color="#F3E8DE"/><stop offset="1" stop-color="#E4CEBC"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1"><stop stop-color="#B98C73"/><stop offset="1" stop-color="#805944"/></linearGradient>
+ <pattern id="dots" width="25" height="25" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#A98571" opacity=".18"/></pattern>
+</defs>
+<rect width="1280" height="430" rx="18" fill="url(#paper)"/>
+<rect x="6" y="6" width="1268" height="418" rx="15" fill="none" stroke="#BA9C87" stroke-opacity=".6"/>
+<rect width="1280" height="430" rx="18" fill="url(#dots)"/>
+<path d="M946 0h334v430H855c52-46 68-85 71-146 4-79-48-151 20-284Z" fill="#9F7763" opacity=".11"/>
+<circle cx="1050" cy="212" r="176" fill="none" stroke="#B08A75" stroke-width="2.3" opacity=".4"/>
+<circle cx="1050" cy="212" r="145" fill="none" stroke="#B08A75" stroke-dasharray="4 10" stroke-width="1.8" opacity=".5"/>
+<circle cx="1050" cy="212" r="115" fill="#9B725F"/>
+<circle cx="1050" cy="212" r="93" fill="none" stroke="#F8F0E8" stroke-opacity=".45" stroke-width="1.5"/>
+<text x="1050" y="242" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="94" fill="#FFF8F1">LE</text>
+<path d="M870 212h-42m402 0h-28M1050 33v39m0 285v40" stroke="#BB937E" stroke-width="2.2"/>
+<rect x="72" y="64" width="244" height="34" rx="17" fill="#E3CFC0"/>
+<circle cx="95" cy="81" r="5" fill="#8D5945"/>
+<text x="110" y="86" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#684B3E">WELCOME TO MY PORTFOLIO</text>
+<text x="66" y="213" font-family="Georgia,'Times New Roman',serif" font-size="99" letter-spacing="-3" fill="#32251F">Liafil Elmido</text>
+<rect x="73" y="240" width="595" height="3" fill="url(#accent)"/>
+<text x="72" y="288" font-family="Arial,sans-serif" font-weight="700" font-size="24" letter-spacing="2.5" fill="#815A47">VIRTUAL ASSISTANT</text>
+<text x="72" y="322" font-family="Arial,sans-serif" font-size="22" fill="#614D43">Customer Service &amp; Support Specialist</text>
+<text x="72" y="378" font-family="Arial,sans-serif" font-size="14" letter-spacing="2.2" fill="#906F5D">CHAT  /  EMAIL  /  PHONE  /  CUSTOMER CARE</text>
+</svg>
