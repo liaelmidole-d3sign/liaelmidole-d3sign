@@ -4,7 +4,32 @@
 
 <br/>
 
+<table>
+<tr>
+<td align="center" width="220">
+
+<a href="https://github.com/liaelmidole-d3sign"><img src="https://avatars.githubusercontent.com/u/316924873?s=240" width="180" height="180" alt="Liafil Elmido GitHub avatar"/></a>
+
+**LIAFIL ELMIDO**
+
+<sub>Virtual Assistant · Customer Support</sub>
+
+</td>
+<td align="left">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2700&pause=900&color=D9AE87&center=true&vCenter=true&width=850&height=58&lines=Hello%2C+I'm+Liafil+Elmido;Virtual+Assistant+%7C+Customer+Support+Specialist;Chat+%7C+Email+%7C+Phone+Support;Helping+customers+with+care+and+clarity;Let's+make+customer+experiences+better.)](https://github.com/liaelmidole-d3sign)
+
+<br/>
+
+**Customer Service Specialist** · Remote Virtual Assistant
+
+📧 [Get in touch](mailto:liaelmido.le@gmail.com)
+
+🌐 [View live portfolio](https://liaelmidole-d3sign.github.io/va-portfolio/)
+
+</td>
+</tr>
+</table>
 
 <a href="mailto:liaelmido.le@gmail.com"><img src="https://img.shields.io/badge/HIRE_ME-CONTACT_VIA_EMAIL-BC9070?style=for-the-badge&labelColor=24170f&logo=gmail&logoColor=F3D8BC" alt="Email Liafil"/></a>
 <a href="https://liaelmidole-d3sign.github.io/va-portfolio/"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-VISIT_WEBSITE-BC9070?style=for-the-badge&labelColor=24170f&logo=googlechrome&logoColor=F3D8BC" alt="Visit Liafil Elmido live VA portfolio"/></a>
