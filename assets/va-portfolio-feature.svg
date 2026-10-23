@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="270" viewBox="0 0 1100 270" role="img" aria-label="Liafil Elmido VA Portfolio website">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8ede2"/><stop offset=".5" stop-color="#efddca"/><stop offset="1" stop-color="#d4b49d"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#8d5f46"/><stop offset="1" stop-color="#c49b78"/></linearGradient></defs>
+<rect x="1" y="1" width="1098" height="268" rx="17" fill="url(#bg)" stroke="#b2896c" stroke-width="2"/>
+<rect x="16" y="16" width="1068" height="238" rx="13" fill="none" stroke="#ba967b" opacity=".5"/>
+<text x="37" y="52" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2.8" fill="#755340">FEATURED PROJECT · MY PROFESSIONAL PORTFOLIO</text>
+<text x="37" y="121" font-family="Georgia,serif" font-size="49" fill="#34241d" letter-spacing="-1">Virtual Assistant Portfolio</text>
+<text x="40" y="158" font-family="Arial,sans-serif" font-size="19" fill="#6e5141">Explore my background, experience, and customer support services.</text>
+<rect x="38" y="181" width="376" height="46" rx="9" fill="#5d3e2e"/>
+<text x="57" y="211" font-family="monospace" font-size="16" font-weight="700" fill="#f8ebdb">VISIT LIVE PORTFOLIO  ↗</text>
+<g transform="translate(879 130)">
+<circle r="90" fill="#ead3c0" stroke="#ac8467" stroke-width="2"/>
+<circle r="70" fill="#6a4735"/><circle r="57" fill="none" stroke="#d8b293" stroke-width="1.5"/>
+<text y="17" text-anchor="middle" font-family="Georgia,serif" font-size="57" fill="#fff3e6">LE</text>
+</g>
+<text x="39" y="248" font-family="monospace" font-size="12" letter-spacing=".9" fill="#866651">liaelmidole-d3sign.github.io/va-portfolio/</text>
+</svg>
