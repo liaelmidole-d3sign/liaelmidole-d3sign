@@ -134,13 +134,17 @@ Associate Degree in Computer Science
 
 </div>
 
-## 🐍 `~/workflow-in-motion`
+## 🐍 `~/contributions`
 
 <div align="center">
 
-<img src="./assets/va-workflow-snake.svg" width="100%" alt="Decorative warm beige snake illustration on a workflow-style tile grid"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liaelmidole-d3sign/home/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liaelmidole-d3sign/home/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/liaelmidole-d3sign/home/output/github-snake-dark.svg" width="100%" alt="Actual GitHub contribution snake for liaelmidole-d3sign"/>
+</picture>
 
-<sub>VA-themed artwork hosted in this repository. Not a live GitHub contributions chart.</sub>
+<sub>Generated successfully using <a href="https://github.com/liaelmidole-d3sign/home/actions/workflows/snake.yml">GitHub Actions</a> · refreshed daily</sub>
 
 </div>
 
